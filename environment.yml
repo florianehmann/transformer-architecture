@@ -1,0 +1,22 @@
+name: tranformer-architecture
+channels:
+  - pytorch
+  - huggingface
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - torchaudio
+  - pytorch
+  - torchvision
+  - cpuonly
+  - transformers
+  - jupyterlab
+  - ipywidgets
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+      - accelerate
