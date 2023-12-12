@@ -1,4 +1,4 @@
-name: tranformer-architecture
+name: transformer-architecture
 channels:
   - pytorch
   - huggingface
@@ -13,6 +13,8 @@ dependencies:
   - transformers
   - jupyterlab
   - ipywidgets
+  - ipympl
+  - tqdm
   - numpy
   - pandas
   - matplotlib

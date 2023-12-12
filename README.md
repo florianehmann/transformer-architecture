@@ -1,6 +1,5 @@
 # Twitter Emotion Analysis
 
-![Static Badge](https://img.shields.io/badge/project%20type-personal-blue)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/florianehmann/transformer-architecture)
 ![GitHub top language](https://img.shields.io/github/languages/top/florianehmann/transformer-architecture)
 
